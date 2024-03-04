@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\marcadores-TP.props" />
+</Project>
